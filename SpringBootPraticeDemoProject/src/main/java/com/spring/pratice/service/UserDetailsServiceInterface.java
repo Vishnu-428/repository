@@ -1,7 +1,6 @@
 package com.spring.pratice.service;
 
 import java.util.List;
-import java.util.Optional;
 
 import com.spring.pratice.models.User;
 
